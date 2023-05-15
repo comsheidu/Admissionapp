@@ -1,10 +1,7 @@
 
 import streamlit as st
 
-from PIL import Image
 
-img = Image.open("Abuja logo.jpg")
-st.sidebar.image(img, width = 350)
 
 
 
